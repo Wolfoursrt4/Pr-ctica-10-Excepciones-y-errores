@@ -1,1 +1,0 @@
-# Pr-ctica-10-Excepciones-y-errores
